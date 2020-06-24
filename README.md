@@ -6,3 +6,6 @@ Slides and example code on the training Angular Advanced for Meat and More, Aalt
 - Repo met RxJS voorbeelden: https://github.com/PeterKassenaar/ng-rxjs-operators.
 - Repo met Testing voorbeelden: https://github.com/PeterKassenaar/ng-testing
 - Repo met Monorepo: https://github.com/PeterKassenaar/ng-monorepo.
+
+## More links
+- ...
