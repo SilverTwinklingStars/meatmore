@@ -8,4 +8,4 @@ Slides and example code on the training Angular Advanced for Meat and More, Aalt
 - Repo met Monorepo: https://github.com/PeterKassenaar/ng-monorepo.
 
 ## More links
-- ...
+- Cancelling RxJS - requests. Er was vroeger een .cancel() operator, maar die bestaat in nieuwe RxJS-versies niet meer. Probeer dit artikel : https://medium.com/the-geeks-of-creately/cancelling-observables-rxjs-f4cf28c3b633
