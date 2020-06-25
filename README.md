@@ -10,3 +10,4 @@ Slides and example code on the training Angular Advanced for Meat and More, Aalt
 ## More links
 - Cancelling RxJS - requests. Er was vroeger een .cancel() operator, maar die bestaat in nieuwe RxJS-versies niet meer. Probeer dit artikel : https://medium.com/the-geeks-of-creately/cancelling-observables-rxjs-f4cf28c3b633
 - HTTP Interceptor article: https://alligator.io/angular/testing-http-interceptors/
+- Retry failed http requests after some time: https://medium.com/angular-in-depth/retry-failed-http-requests-in-angular-f5959d486294
